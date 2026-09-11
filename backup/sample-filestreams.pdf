@@ -1,0 +1,35 @@
+OFFICE DOCUMENT ARCHIVE
+=======================
+
+Sample Binary Document
+
+Document ID: ODA-2026-001
+Department: Software Engineering
+Document Type: Office Report
+
+This document is used as a sample binary file
+for the Java File and I/O assignment.
+
+Archive Records
+---------------
+
+1. Staff Meeting
+   Date: 2026-09-01
+   Author: Tamirat Tezera
+
+2. Quarterly Report
+   Date: 2026-09-02
+   Author: Hana Tesfaye
+
+3. Office Supplies
+   Date: 2026-09-03
+   Author: Abebe Kebede
+
+Purpose
+-------
+This PDF is used to demonstrate:
+- FileInputStream
+- FileOutputStream
+- BufferedInputStream
+- BufferedOutputStream
+- Binary file copying
