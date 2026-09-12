@@ -1,0 +1,10 @@
+Morning Shift Attendance Report
+--------------------------------
+Eden   - Present
+Tamirat     - Present
+Kaleab - Absent
+Evening Shift Attendance Report
+--------------------------------
+Hiwot - Present
+Eva   - Absent
+Frank - Present
